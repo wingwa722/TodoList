@@ -1,0 +1,12 @@
+.TodoGenerator
+    {background-color: rgb(228, 206, 248);
+        border: 2px solid;
+        padding: 20px;
+        font-size: 20px;
+    }
+
+.TodoGeneratorButton{
+    background-color: #a7f7fd;
+    font-size: 30px;
+    border-radius: 15px;
+}
